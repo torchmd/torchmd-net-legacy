@@ -1,4 +1,4 @@
-# torchmd-cg
+# torchmd-net
 
 ## Installation
 
@@ -11,10 +11,3 @@ pip install pytorch-lightning
 pip install torchmdnet
 ```
 
-## Usage
-
-```
-pip install moleculekit
-conda install seaborn pandas jupyter
-```
-Check the jupyter notebook in the `tutorial` folder
